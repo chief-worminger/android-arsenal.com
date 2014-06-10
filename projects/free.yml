@@ -557,6 +557,8 @@ categories:
           url: https://github.com/thest1/LazyList/
         - name: ListViewAnimations
           url: https://github.com/nhaarman/ListViewAnimations
+        - name: ListViewAnimator
+          url: https://github.com/chief-worminger/ListViewAnimator
         - name: PagingListView
           url: https://github.com/nicolasjafelle/PagingListView
         - name: PlayView
